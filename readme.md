@@ -19,3 +19,5 @@ npm run guide
 This will serve the guide at [http://localhost:8080](http://localhost:8080).
 
 Enjoy!
+
+# This is a modification of the original workshop. Details see https://elylucas.github.io/ng-nest-realtime-apps/
